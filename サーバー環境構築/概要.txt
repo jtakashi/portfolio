@@ -22,7 +22,7 @@ Tomcatの導入
 ４　Unitファイルの作成
 ５　AJPコネクターの設定
 ６　ファイヤウォールの設定(VBoxのみ)
-７　Selinuxの設定をして8080ポートで接続確認
+７　Selinuxの設定をして8080ポートで接続確認(VBoxのみ)
 完成
 
 Apatchの導入&Tomcatとの接続
