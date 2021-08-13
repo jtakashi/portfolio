@@ -1,0 +1,1 @@
+INSERT INTO MESSAGES (text) VALUES('sample message');
